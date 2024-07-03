@@ -2,3 +2,9 @@ h1{
     color: chocolate;
     text-align: center;
 }
+*{
+    background-image: url('10-things-to-include-on-your-school-website.jpg');
+    background-size: cover;
+   background-repeat: no-repeat;
+   transition-behavior: normal;
+}
